@@ -1,0 +1,86 @@
+
+For Export Database type this command into commandprompt/gitbash(/c/xampp/htdocs/paymentapp) : php artisan migrate
+====== Data Kelas Seeding ======
+Jika ingin Otomatis Generate Kelas (jadi tidak usah input kelas lagi) utk contoh Saya pakai SMK Amaliah
+type this command into commandprompt/gitbash(/c/xampp/htdocs/paymentapp) : php artisan db:seed
+DEFAULT KODE KELAS :
+=====X|A1 : 		
+1011 = X RPL 1
+1012 = X RPL 2
+1013 = X RPL 3
+1021 = X MM 1
+1022 = X MM 2
+1023 = X MM 3
+1031 = X TKJ 1
+1032 = X TKJ 2
+1033 = X TKJ 3
+=====X|A2 : 
+1041 = X PBS 1
+1042 = X PBS 2
+1043 = X PBS 3
+1051 = X AK 1
+1052 = X AK 2
+1053 = X AK 3
+1061 = X OTKP 1
+1062 = X OTKP 2
+1063 = X OTKP 3
+1071 = X TB 1
+1072 = X TB 2
+1073 = X TB 3
+1081 = X BDP 1
+1082 = X BDP 2
+1083 = X BDP 3 
+
+=====XI|A1 :
+1111 = XI RPL 1
+1112 = XI RPL 2
+1113 = XI RPL 3
+1121 = XI MM 1
+1122 = XI MM 2
+1123 = XI MM 3
+1131 = XI TKJ 1
+1132 = XI TKJ 2
+1133 = XI TKJ 3
+=====XI|A2 : 
+1141 = XI PBS 1
+1142 = XI PBS 2
+1143 = XI PBS 3
+1151 = XI AK 1
+1152 = XI AK 2
+1153 = XI AK 3
+1161 = XI OTKP 1
+1162 = XI OTKP 2
+1163 = XI OTKP 3
+1171 = XI TB 1
+1172 = XI TB 2
+1173 = XI TB 3
+1181 = XI BDP 1
+1182 = XI BDP 2
+1183 = XI BDP 3
+
+=====XII|A1 : 
+1211 = XII RPL 1
+1212 = XII RPL 2
+1213 = XII RPL 3
+1221 = XII MM 1
+1222 = XII MM 2
+1223 = XII MM 3
+1231 = XII TKJ 1
+1232 = XII TKJ 2
+1233 = XII TKJ 3
+=====XII|A2 : 
+1241 = XII PBS 1
+1242 = XII PBS 2
+1243 = XII PBS 3
+1251 = XII AK 1
+1252 = XII AK 2
+1253 = XII AK 3
+1261 = XII OTKP 1
+1262 = XII OTKP 2
+1263 = XII OTKP 3
+1271 = XII TB 1
+1272 = XII TB 2
+1273 = XII TB 3
+1281 = XII BDP 1
+1282 = XII BDP 2
+1283 = XII BDP 3
